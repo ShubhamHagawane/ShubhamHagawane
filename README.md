@@ -93,7 +93,7 @@ A full-stack e-commerce platform built using the MERN Stack.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ShubhamHagawane&theme=tokyonight"/>
 
 </p>
 
