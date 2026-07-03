@@ -103,7 +103,7 @@ A full-stack e-commerce platform built using the MERN Stack.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamHagawane&theme=algolia&row=1&column=6"/>
 
 </p>
 
@@ -113,7 +113,7 @@ A full-stack e-commerce platform built using the MERN Stack.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamHagawane&theme=tokyo-night"/>
 
 </p>
 
