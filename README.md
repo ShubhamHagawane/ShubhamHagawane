@@ -62,20 +62,18 @@
 
 # 🌟 Featured Projects
 
-## 🛒 Vacation Rental Website
+##  🏡 Vacation Rental Website
 
-A full-stack e-commerce platform built using the MERN Stack.
+An Airbnb-inspired accommodation booking platform.
 
-### Features
+Features
+Property Listings
+User Authentication
+Reviews
+Categories
+Booking System
 
-* User Authentication
-* Seller Dashboard
-* Product Management
-* Shopping Cart
-* Responsive UI
-* JWT Authentication
-
-**Tech:** React • Node.js • Express.js • MongoDB • Tailwind CSS
+Tech: Node.js • Express.js • MongoDB • EJS • Bootstrap
 
 ---
 
